@@ -1,2 +1,2 @@
 These are the signal tracks for the CUT&RUN-seq data on the EBV genome. The C666-1 of lncBART control and knockdown cells were performed CUT&RUN-seq experiment. We targeted CTCF, H3K27ac, and BRD4 to capture these protein binding sites on the EBV genome. These signals were RPKM normalised and they have been normalised to the random background by subtracting each bin size to the mean of the background signals. Any negative signals were set to zero.
-#C666lnBARTWT denotes experimental control cells in C666 and C666lnBARTKD denotes lncBARTs knockdown cells in C666.
+**C666lnBARTWT denotes experimental control cells in C666 and C666lnBARTKD denotes lncBARTs knockdown cells in C666.
