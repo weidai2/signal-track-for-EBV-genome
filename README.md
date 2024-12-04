@@ -1,1 +1,1 @@
-These are the singals track for the CUT&RUN-seq data on the EBV genome
+These are the signal tracks for the CUT&RUN-seq data on the EBV genome. The signals have been normalised to the random background by subtracting each bin size to the mean of the background signals. Any negative signals were set to zero.
